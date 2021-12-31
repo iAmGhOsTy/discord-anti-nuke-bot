@@ -41,6 +41,6 @@ let data = {
             embeds: [added]
         });
     }
-message.channel.send(`Only ownership of the guild can use that cmd!`)
+message.channel.send(`Only owner of the guild can use that cmd!`)
 }}
  
